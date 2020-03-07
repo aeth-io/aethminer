@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aeth-miner", "aethminer\aethminer.vcxproj", "{7E2BCD41-DBC7-4565-8C4D-E92F039C2286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		ReleaseAVX|x64 = ReleaseAVX|x64
+		ReleaseAVX2|x64 = ReleaseAVX2|x64
+		ReleaseAVX512|x64 = ReleaseAVX512|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2BCD41-DBC7-4565-8C4D-E92F039C2286}.Release|x64.ActiveCfg = Release|x64
+		{7E2BCD41-DBC7-4565-8C4D-E92F039C2286}.Release|x64.Build.0 = Release|x64
+		{7E2BCD41-DBC7-4565-8C4D-E92F039C2286}.ReleaseAVX|x64.ActiveCfg = ReleaseAVX|x64
+		{7E2BCD41-DBC7-4565-8C4D-E92F039C2286}.ReleaseAVX|x64.Build.0 = ReleaseAVX|x64
+		{7E2BCD41-DBC7-4565-8C4D-E92F039C2286}.ReleaseAVX2|x64.ActiveCfg = ReleaseAVX2|x64
+		{7E2BCD41-DBC7-4565-8C4D-E92F039C2286}.ReleaseAVX2|x64.Build.0 = ReleaseAVX2|x64
+		{7E2BCD41-DBC7-4565-8C4D-E92F039C2286}.ReleaseAVX512|x64.ActiveCfg = ReleaseAVX512|x64
+		{7E2BCD41-DBC7-4565-8C4D-E92F039C2286}.ReleaseAVX512|x64.Build.0 = ReleaseAVX512|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E3080E0-367E-496A-B1E4-C72B0CA203DF}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
